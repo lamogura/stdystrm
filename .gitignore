@@ -1,0 +1,6 @@
+node_modules/
+backup/
+build/
+dist/
+config/runtime.json
+*.log
